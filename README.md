@@ -28,7 +28,7 @@ This is the initial step to better understand the size, quantity and other chara
 ![](model_training.png)
 
 
-# 
+# Tech stack
 
 
 Pandas and Numpy
@@ -38,4 +38,3 @@ Scikit-Learn
 xgboost
 
 Random forest
-
