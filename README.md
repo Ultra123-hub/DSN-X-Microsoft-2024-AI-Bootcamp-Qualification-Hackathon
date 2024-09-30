@@ -11,15 +11,27 @@ To solve this problem, the conventional diagnostic methods often come with subst
 
 Solving this challenge holds great significance. Early prediction aids in timely intervention and prevention, optimizing healthcare resources. The cost-effectiveness of predictive models reduces unnecessary procedures, benefiting patients and healthcare systems. Targeted public health efforts can stem from aggregated data, and research also advances through model insights. Ultimately, this challenge addresses a crucial healthcare issue using advanced machine learning, promising improved interventions and better health outcomes.
 
+# Data Exploration
+This is the initial step to better understand the size, quantity and other characteristics of the dataset at hand.
+
+
+# EDA
+
+
+
+# Feature Selection
+
+# Model Training
+
+
+# Submission
 
 
 Pandas and Numpy
 
 Scikit-Learn
 
-xgboost, catboost and lightgbm
+xgboost
 
-Google Drive
-
-Google Collab
+Random forest
 
