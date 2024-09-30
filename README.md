@@ -24,3 +24,10 @@ Solving this challenge holds great significance. Early prediction aids in timely
 # Model Ensembling
 ![](ensembling.png)
 
+# Tech stack
+Pandas and Numpy
+Scikit-Learn
+xgboost, catboost and lightgbm
+Google Drive
+Google Collab
+
