@@ -19,7 +19,7 @@ Solving this challenge holds great significance. Early prediction aids in timely
 ![](features.png)
 
 # Hyperparameter Tuning
-![]()
+![](hyperparameter.png)
 
 # Model Ensembling
 ![](ensembling.png)
