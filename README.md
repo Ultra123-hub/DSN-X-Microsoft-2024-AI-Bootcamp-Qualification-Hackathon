@@ -16,7 +16,7 @@ Solving this challenge holds great significance. Early prediction aids in timely
 ![](setup.png)
 
 # Feature Engineering
-![](features,png)
+![](features.png)
 
 # Hyperparameter Tuning
 ![]()
