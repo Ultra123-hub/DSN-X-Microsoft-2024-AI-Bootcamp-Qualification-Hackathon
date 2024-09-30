@@ -1,6 +1,6 @@
 # DSN-X-Microsoft-2024-AI-Bootcamp-Qualification-Hackathon
 Heart Disease Prediction for the DSN AI Bootcamp 2024
-![]()
+![](dsn.png)
 
 # Background
 Cardiovascular diseases (CVDs), otherwise known as heart diseases are a major cause of morbidity and mortality worldwide, as they pose a huge challenge to public health. An estimated 17.9 million deaths worldwide in 2019 were attributed to CVDs, accounting for 32% of all deaths. In breakdown, heart attacks and strokes accounted for 85% of these deaths. It is noteworthy that the majority of cardiovascular diseases are significantly associated with risk factors that compromise the ethics of a healthy lifestyle. 
@@ -11,4 +11,4 @@ Solving this challenge holds great significance. Early prediction aids in timely
 
 
 # Environmental Setup
-![]()
+![](setup.png)
