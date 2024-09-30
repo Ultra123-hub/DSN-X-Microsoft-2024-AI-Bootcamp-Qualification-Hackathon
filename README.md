@@ -14,6 +14,7 @@ Solving this challenge holds great significance. Early prediction aids in timely
 # Data Exploration
 This is the initial step to better understand the size, quantity and other characteristics of the dataset at hand.
 
+![](data_exploration.png)
 
 # EDA
 
