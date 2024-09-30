@@ -17,14 +17,17 @@ This is the initial step to better understand the size, quantity and other chara
 
 # EDA
 
-
+![](eda.png)
 
 # Feature Selection
+![](feature.png)
+
 
 # Model Training
+![](model training.png)
 
 
-# Submission
+# 
 
 
 Pandas and Numpy
