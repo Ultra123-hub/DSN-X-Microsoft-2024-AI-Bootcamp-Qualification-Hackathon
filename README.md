@@ -12,19 +12,7 @@ To solve this problem, the conventional diagnostic methods often come with subst
 Solving this challenge holds great significance. Early prediction aids in timely intervention and prevention, optimizing healthcare resources. The cost-effectiveness of predictive models reduces unnecessary procedures, benefiting patients and healthcare systems. Targeted public health efforts can stem from aggregated data, and research also advances through model insights. Ultimately, this challenge addresses a crucial healthcare issue using advanced machine learning, promising improved interventions and better health outcomes.
 
 
-# Environmental Setup
-![](setup.png)
 
-# Feature Engineering
-![](features.png)
-
-# Hyperparameter Tuning
-![](hyperparameter.png)
-
-# Model Ensembling
-![](ensembling.png)
-
-# Tech stack
 Pandas and Numpy
 
 Scikit-Learn
