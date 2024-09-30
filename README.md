@@ -24,7 +24,7 @@ This is the initial step to better understand the size, quantity and other chara
 
 
 # Model Training
-![](model training.png)
+![](model_training.png)
 
 
 # 
