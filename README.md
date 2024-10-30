@@ -18,18 +18,23 @@ This is the initial step to better understand the size, quantity and other chara
 
 # EDA
 
-![](eda.png)
+<p align="left">
+  <img src="eda.png" alt="description" width="700" height="auto"/>
+</p>
+
 
 # Feature Selection
-![](feature.png)
-
+<p align="left">
+  <img src="feature.png" alt="description" width="700" height="auto"/>
+</p>
 
 # Model Training
-![](model_training.png)
 
+<p align="left">
+  <img src="model_training.png" alt="description" width="700" height="auto"/>
+</p>
 
 # Tech stack
-
 
 Pandas and Numpy
 
